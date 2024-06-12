@@ -1,0 +1,14 @@
+#nav{
+    height: 20px;
+}
+
+.d-flex{
+    height: 35px;
+}
+
+.btn.btn-outline-success{
+    width: 150px;
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+}

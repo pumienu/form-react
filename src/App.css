@@ -1,0 +1,57 @@
+#wrapper{
+  margin: 50px 100px;
+  background-color: rgb(240, 240, 240);
+  min-height: 400px;
+  border: 1px solid blue;
+}
+#title{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 40px;
+  background-color: blue;
+  color: white;
+  
+}
+.btn-group{
+  border-radius: none !important;
+  height: 30px;
+  width: 400px;
+  font-size: 5px;
+}
+
+.fas.fa-circle{
+  font-size: 8px;
+}
+
+#delete{
+  width: 100px;
+}
+
+#modal-add{
+  width: 200px;
+}
+
+.render-data{ 
+    margin: 5px;
+    padding: 20px;
+
+}
+
+.fa-regular.fa-trash-can{
+  color: brown;
+}
+
+.item-tag{
+    display: flex;
+    border-bottom: 3px solid rgb(230, 230, 230);
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    font-weight: bold;
+}
+
+.btn{
+  font-size: 10px;
+}
+
+
